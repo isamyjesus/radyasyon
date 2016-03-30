@@ -334,7 +334,7 @@
                         
                         <a href="#sfd" onclick="javscript:linkOlustur('2014','0','00','y2014','1')" id="y2014">2014</a> |
                         
-                        <a href="#sfd" onclick="javscript:linkOlustur('2015','0','00','y2015','1')" id="A13">2015</a>
+                        <a href="#sfd" onclick="javscript:linkOlustur('2015','0','00','y2015','1')" id="y2015">2015</a>
                             <a href="#sfd" onclick="javscript:linkOlustur(yil,'0',gun,'a0','2')" id="a0" class="over" style="visibility:hidden">Yıllık Ortalama</a>
                         </em>
                  </p>
